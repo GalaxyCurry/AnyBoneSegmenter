@@ -69,4 +69,4 @@ If you use AnyBoneSegmenter in your research, please cite:
   - [MobileSAM](https://github.com/ChaoningZhang/MobileSAM) (Efficient adaptation)
   - [MedSAM](https://github.com/bowang-lab/MedSAM) (Medical specialization)
   - [Medical SAM Adapter](https://github.com/KidsWithTokens/medical-sam-adapter) (Domain adaptation)
-  - [LoRA for SAM](https://github.com/JamesQFreeman/Sam-LoRA) (Parameter-efficient tuning)
+  - [LoRA for SAM](https://github.com/JamesQFreeman/Sam_LoRA) (Parameter-efficient tuning)
